@@ -1,0 +1,35 @@
+{
+"mainImage.item1":"Revolutionizing <br /> the reality of <br /> detecting fires",
+
+"nav.item1":"About us",
+    "nav.item2":"Elevating experiences",
+    "nav.item3":"Contact",
+    "nav.item4":"Change language",
+
+    "main.item0":"Revolutionizing {br} the reality of {br} detecting fires",
+"main.item1":"Learn more",
+
+"services.item0":"Elevating",
+"services.item1":"experiences",
+"services.item2":"Fire Risk Prediction",
+"services.item3":"Wildfire Detection",
+"services.item4":"Fire Evolution Monitoring",
+"services.item5":"Data-Driven Decision Making",
+"services.item6":"Using advanced AI algorithms, we predict areas with high fire risk, allowing for better resource allocation and prevention strategies.",
+"services.item7":"Our association with Firehawk has resulted in the implementation of the a Wildfire Detection system as a Service (DaaS). An innovative wildfire detection and notification service, that not only combines human expertise and artificial intelligence for efficient and timely detection, but also operates as a 100% renewable energy-powered, off-the-grid system.",
+"services.item8":"We track fire behavior and provide critical information to firefighting teams and emergency services to help them contain and extinguish wildfires more effectively.",
+"services.item9":"Our advanced detection system provides valuable data on fire behavior, patterns, and risk factors, enabling authorities and researchers to make more informed decisions about fire management and prevention strategies.",
+"services.item10":"EVERSEEK offers a range of services designed to revolutionize the way wildfires are detected and managed, prioritizing environmental sustainability:",
+
+
+"contact.item1":"Contact Us",
+"contact.item2":"Got any questions or would like to learn more, please send us a message and we will get back to you as soon as possiole",
+"contact.item3":"First Name",
+"contact.item4":"Last Name",
+"contact.item5":"Leave us a message",
+"contact.item6":"Submit",
+"contact.item7":"Email",
+"contact.item8": "Message sent!",
+"contact.item9": "We will contact you {br} very soon..."
+
+}
