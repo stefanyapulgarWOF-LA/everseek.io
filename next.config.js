@@ -9,8 +9,8 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/about-us.html',
-        destination: '/about-us',
+        source: '/about-us',
+        destination: '/about-us.html',
       },
     ];
   },
