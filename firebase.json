@@ -6,6 +6,12 @@
   "hosting": {
     "public": "build",
     "site":"everseek-core",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
     "ignore": [
       "firebase.json",
       "**/.*",

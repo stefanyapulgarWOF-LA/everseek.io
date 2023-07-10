@@ -1,24 +1,27 @@
 {
     
     "nav.item1":"Sobre nosotros",
-    "nav.item2":"Elevando experiencias",
+    "nav.item2":"Soluciones innovadoras",
     "nav.item3":"Contacto",
     "nav.item4":"Cambiar idioma",
 
-    "main.item0":"Revolucionando {br}la realidad de la {br} detección de incendios",
+    "main.item0":"GESTIÓN DE {br}INCENDIOS FORESTALES {br}EN TIEMPO REAL",
     "main.item1":"Aprende mas",
-    
-    "services.item0":"Elevando",
-    "services.item1":"experiencias",
-    "services.item2":"Predicción de Riesgo de Incendio",
-    "services.item3":"Detección de Incendios Forestales",
-    "services.item4":"Monitorización de la Evolución del Fuego",
-    "services.item5":"Toma de Decisiones Basada en Datos",
-    "services.item6":"Con algoritmos  avanzados  de inteligencia artificial podemos predecir áreas con alto riesgo de incendios, permitiendo una mejor gestión de estrategias de prevención",
-    "services.item7":"De la mano con Firehawk, implementamos la detección como servicio integral (DaaS). Una solución innovadora de detección y notificación en tiempo real combinando la experiencia humana con IA para una detección eficiente y oportuna.",
-    "services.item8":"Rastreamos el comportamiento del fuego y proporcionamos información explícita, a los equipos de brigadas forestales y servicios de emergencia, obteniendo una contención y extinción del fuego de forma más efectiva.",
-    "services.item9":"Nuestro  avanzado  sistema  de  detección procesa múltiples datos e información sobre el comportamiento del fuego, patrones y factores  de  riesgo;  permitiendo a  nuestros clientes la toma de decisiones más rápida y exacta ante losincendios forestales.",
-    "services.item10":"",
+    "main.item2":"Impulsados por la tecnología y las personas, contribuimos a un futuro más seguro y sostenible reduciendo el impacto de los incendios forestales.",
+
+    "services.subtitulo":"Sistemas en tiempo real para prevenir, detectar y rastrear la evolución de los incendios forestales",
+    "services.item0":"Soluciones",
+    "services.item1":"innovadoras",
+    "services.item2":"Índices de Peligro",
+    "services.item3":"Detección Incendios Forestales",
+    "services.item4":"Evolución Fuego",
+    "services.item5":"Propagación",
+    "services.item6":"Algoritmos avanzados de inteligencia artificial combinados con sensores ópticos en terreno, desarrollados para predecir áreas más vulnerables y con alto riesgo de incendios forestales.",
+    "services.item7":"Contamos con un revolucionario sistema de detección y notificación en tiempo real de incendios forestales de la mano de <a>Firehawk</a>, consiguiendo una detección eficiente y oportuna al combinar la experiencia humana con IA.",
+    "services.item8":"Rastreamos el comportamiento del fuego y proporcionamos información explícita a los equipos de brigadas forestales y servicios de emergencia para contribuir a la contención y extinción del fuego de forma más efectiva.",
+    "services.item9":"Proyección de la propagación del fuego gracias a nuestro avanzado sistema de análisis de datos en tiempo real, ofreciendo información esencial que respalda la distribución de recursos, la toma de decisiones estratégicas y la organización comunitaria.",
+    "services.item10":"Diseño Redes Detección",
+    "services.item11":"Estudio topográfico, infraestructura y análisis de los puntos más eficientes y eficaces implantar las cámaras de detección temprana.",
 
 
     "contact.item1":"Contacto",
@@ -29,7 +32,12 @@
     "contact.item6":"Enviar",
     "contact.item7":"Email",
     "contact.item8": "¡Mensaje enviado!",
-    "contact.item9": "Nos contactaremos contigo {br} muy pronto..."
+    "contact.item9": "Nos contactaremos contigo {br} muy pronto...",
     
+
+    "about.item1":"Sobre",
+    "about.item2":"nosotros",
+    "about.item3":"Fundada en Chile en 2021 con el objetivo de avanzar en el desarrollo de algoritmos y plataformas de gestión contra incendios forestales. Contamos con un equipo compuesto por profesionales experimentados del sector de incendios e ingenieros y especialistas en tecnología de la información. {br}{br}Nuestros servicios ya están operativos en Argentina, Uruguay y Chile <b>-con más de 200 estaciones de monitoreo y 15 millones de hectáreas bajo vigilancia-</b> ofreciendo a nuestros clientes soluciones innovadoras para una mejor gestión de los incendios forestales."
+
     }
     

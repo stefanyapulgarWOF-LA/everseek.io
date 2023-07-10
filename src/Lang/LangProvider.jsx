@@ -2,7 +2,7 @@ import { createContext, useState, useEffect, useContext } from "react";
 import { IntlProvider } from "react-intl";
 import enUsMessages from "./EN.json";
 import esEsMessages from "./ES.json";
-//import ptBrMessages from '../lang/pt-BR.json';
+import ptBrMessages from './BR.json';
 
 const langContext = createContext();
 export function useLang() {
@@ -13,6 +13,7 @@ const LangProvider = ({ children }) => {
   const [locale, setLocale] = useState("en-US");
   const GetString = (key) => messages[key] ?? "Not key";
   const switchLanguage = (lang) => {
+    console.log("🚀  lang:", lang)
     switch (lang) {
       case "es-ES":
         setMessages(esEsMessages);
@@ -24,10 +25,10 @@ const LangProvider = ({ children }) => {
         setLocale("en-US");
         break;
 
-      // case 'pt-BR':
-      //     setMessages(ptBrMessages)
-      //     setLocale('pt-BR')
-      //     break;
+      case 'pt-BR':
+          setMessages(ptBrMessages)
+          setLocale('pt-BR')
+          break;
 
       default:
         setMessages(enUsMessages);

@@ -2,24 +2,28 @@
 "mainImage.item1":"Revolutionizing <br /> the reality of <br /> detecting fires",
 
 "nav.item1":"About us",
-    "nav.item2":"Elevating experiences",
+    "nav.item2":"Innovative solutions",
     "nav.item3":"Contact",
     "nav.item4":"Change language",
 
-    "main.item0":"Revolutionizing {br} the reality of {br} detecting fires",
+    "main.item0":"REAL-TIME {br}WILDFIRE {br}MANAGEMENT ",
 "main.item1":"Learn more",
+"main.item2":"Powered by tech, driven by people, we contribute to a safer & sustainable future by working to reduce the impact of wildfires.",
 
-"services.item0":"Elevating",
-"services.item1":"experiences",
-"services.item2":"Fire Risk Prediction",
+"services.subtitulo":"Real-time systems to prevent, detect and track the evolution of wildfires",
+"services.item0":"Innovative",
+"services.item1":"solutions",
+"services.item2":"Risk Index",
 "services.item3":"Wildfire Detection",
-"services.item4":"Fire Evolution Monitoring",
-"services.item5":"Data-Driven Decision Making",
-"services.item6":"Using advanced AI algorithms, we predict areas with high fire risk, allowing for better resource allocation and prevention strategies.",
-"services.item7":"Our association with Firehawk has resulted in the implementation of the a Wildfire Detection system as a Service (DaaS). An innovative wildfire detection and notification service, that not only combines human expertise and artificial intelligence for efficient and timely detection, but also operates as a 100% renewable energy-powered, off-the-grid system.",
+"services.item4":"Fire Evolution",
+"services.item5":"Fire Spread Modeling",
+"services.item6":"Advanced artificial intelligence algorithms combined with infield optical sensors, developed to predict the most vulnerable and high-risk areas for wildfires.",
+"services.item7":"A revolutionary system of wildfire detection and notification in real time introduced by <a>Firehawk</a>, achieving an efficient and timely detection by combining human experience with AI.",
 "services.item8":"We track fire behavior and provide critical information to firefighting teams and emergency services to help them contain and extinguish wildfires more effectively.",
-"services.item9":"Our advanced detection system provides valuable data on fire behavior, patterns, and risk factors, enabling authorities and researchers to make more informed decisions about fire management and prevention strategies.",
-"services.item10":"EVERSEEK offers a range of services designed to revolutionize the way wildfires are detected and managed, prioritizing environmental sustainability:",
+"services.item9":"Projection of fire spread thanks to our advanced real-time data analysis system, providing essential information to support resource allocation, strategic decision making and community organisation.",
+"services.item10":"Detection Networks Design",
+"services.item11":"Topographical study, infrastructure and analysis of the most efficient and effective points where to implement early detection cameras.",
+
 
 
 "contact.item1":"Contact Us",
@@ -30,6 +34,10 @@
 "contact.item6":"Submit",
 "contact.item7":"Email",
 "contact.item8": "Message sent!",
-"contact.item9": "We will contact you {br} very soon..."
+"contact.item9": "We will contact you {br} very soon...",
+
+"about.item1":"About ",
+"about.item2":"us",
+"about.item3":"Founded in Chile in 2021 with the objective of furthering the development of algorithms and platforms for forest fire management. {br}Our team relies on experienced professionals from the fire sector and engineers and IT specialists. {br}{br} Our services are already operational in Argentina, Uruguay and Chile <b>-with more than 200 monitoring stations and 15 million hectares under surveillance-</b> offering our clients innovative solutions for better wildfire management."
 
 }

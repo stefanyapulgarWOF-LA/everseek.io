@@ -1,0 +1,44 @@
+{
+    "mainImage.item1":"Revolutionizing <br /> the reality of <br /> detecting fires",
+    
+    "nav.item1":"SOBRE NÓS",
+        "nav.item2":"SOLUÇÕES INOVADORAS", 
+        "nav.item3":"Contato",
+        "nav.item4":"Alterar idioma",
+    
+        "main.item0":"GERENCIAMENTO DE{br} INCÊNDIOS FLORESTAIS{br} EM TEMPO REAL",
+    "main.item1":"Learn more",
+    "main.item2":"Impulsionados pela tecnologia e direcionados pelas pessoas, contribuímos para um futuro mais seguro e sustentável, trabalhando para reduzir o impacto dos incêndios florestais.",
+    
+    "services.subtitulo":"Sistemas em tempo real para prevenir, detectar e acompanhar a evolução dos incêndios florestais",
+    "services.item0":"SOLUÇÕES",
+    "services.item1":"INOVADORAS",
+    "services.item2":"Índice de Risco",
+    "services.item3":"Detecção de incêndio florestal",
+    "services.item4":"Evolução do incêndio",
+    "services.item5":"Modelagem da propagação do fogo",
+    "services.item6":"Algoritmos avançados de inteligência artificial, combinados com sensores ópticos internos, desenvolvidos para prever as áreas mais vulneráveis e de alto risco para incêndios florestais.",
+    "services.item7":"Um sistema revolucionário de detecção e notificação de incêndios florestais em tempo real introduzido pela Firehawk, alcançando uma detecção eficiente e oportuna ao combinar a experiência humana com a IA.",
+    "services.item8":"Rastreamos o comportamento do fogo e fornecemos informações explícitas às equipes da brigada florestal e serviços de emergência para ajudar a conter e extinguir o fogo de forma mais eficaz.",
+    "services.item9":"Projeção da propagação do fogo graças ao nosso avançado sistema de análise de dados em tempo real, fornecendo informações essenciais para apoiar a alocação de recursos, tomada de decisões estratégicas e organização da comunidade.",
+    "services.item10":"Projeto de redes de detecção",
+    "services.item11":"Estudo topográfico, infraestrutura e análise dos pontos mais eficientes e eficazes onde implementar câmeras de detecção precoce.",
+    
+    
+    
+    "contact.item1":"Fale Conosco",
+    "contact.item2":"Tem alguma dúvida ou gostaria de saber mais, envie-nos uma mensagem e responderemos o mais breve possível",
+    "contact.item3":"Nome",
+    "contact.item4":"Sobrenome",
+    "contact.item5":"Deixe-nos uma mensagem",
+    "contact.item6":"Enviar",
+    "contact.item7":"E-mail",
+    "contact.item8": "Mensagem enviada!",
+    "contact.item9": "Entraremos em contato com você {br} muito em breve...",
+    
+    "about.item1":"SOBRE ",
+    "about.item2":"NÓS",
+    "about.item3":"Fundada no Chile em 2021 com o objetivo de promover o desenvolvimento de algoritmos e plataformas para gestão de incêndios florestais. {br} Nossa equipe conta com profissionais experientes do setor de incêndios e engenheiros e especialistas em TI. {br}{br} Nossos serviços já estão operando na Argentina, Uruguai e Chile <b>-com mais de 200 estações de monitoramento e 15 milhões de hectares sob vigilância-</b> oferecendo aos nossos clientes soluções inovadoras para uma melhor gestão de incêndios florestais."
+    
+    }
+    

@@ -1,24 +1,23 @@
 import React from "react";
 import { db } from "./firebase";
-import { collection, addDoc } from "firebase/firestore";
+import { collection, addDoc, doc } from "firebase/firestore";
 
 export default async function SendEmail(nombre, apellido, email, texto) {
-  const collectionRef = collection(db, "emails");
+  const collectionRef = collection(db, "everseek-web","data","emails");
   const emailContent = {
-	pass:"wof3000",
-    to: "info@firehawkdetection.com",
-    // to: "stefanya.pulgar@wof-la.com",
-    replyTo: email,
+	  pass:"wof3000",
     message: {
-      subject: "Comentarios de pagina web Everseek.io",
-      text: `${"Comentario de: " +nombre + " " + apellido}`,
-      html: `
-			<div style={{margin:'100px'}}>
-			<p><strong>Nombre:</strong> ${nombre + " " + apellido}</p>
-			       <p><strong>Email:</strong> ${email}</p>
-			      <p> <strong>Comentario:</strong> ${texto}</p>
-			</div>`,
+      header: "Comentarios de pagina web Everseek.io",
+      human_being: `${"Comentario de: " +nombre + " " + apellido}`,
+      mail: `${email}`,
+      text: `${texto}`,
     },
   };
-  return await addDoc(collectionRef, emailContent);
+  try {
+    const docRef = await addDoc(collectionRef, emailContent);
+    return docRef;
+  } catch (error) {
+    console.error("Error adding email document: ", error);
+    throw error;
+  }
 }
