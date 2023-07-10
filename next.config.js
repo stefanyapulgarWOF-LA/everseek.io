@@ -12,9 +12,8 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/about-us',},
-       { destination: '/about-us',}
-      ,
+        source: '/about-us'},
+       { destination: '/about-us'}
     ];
   },
   images: {
