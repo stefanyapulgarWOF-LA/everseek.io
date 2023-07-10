@@ -1,7 +1,7 @@
 import { React, useRef, useEffect, useState, useContext } from "react";
 import ContactUs from "./Components/ContactUs";
 import MainImage from "./Components/MainImage";
-import NavBar from "./nav-bar";
+import NavBar from "./Components/nav-bar";
 import Services from "./Components/Services";
 // import "../styles/index.css";
 import { AllContext, useAllContext } from "../Context/AllContext";

@@ -6,7 +6,7 @@ import { useContext } from "react";
 import { AllContext } from "../Context/AllContext";
 import Map from "./Components/Map";
 import ContactUs from "./Components/ContactUs";
-import NavBar from "./nav-bar";
+import NavBar from "./Components/nav-bar";
 import Head from "next/head";
 
 export default function AboutUs() {
