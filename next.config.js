@@ -3,6 +3,7 @@ const nextConfig = {
   babel: {
     configFile: ".babelrc"
   },
+  trailingSlash: true,
   exportPathMap: async function() {
     return {
       "/": { page: "/" },
