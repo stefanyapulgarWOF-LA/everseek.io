@@ -1,6 +1,14 @@
 {
   "/_app": "pages/_app.js",
+  "/Components/About": "pages/Components/About.html",
+  "/Components/ContactUs": "pages/Components/ContactUs.html",
+  "/Components/MainImage": "pages/Components/MainImage.html",
+  "/Components/Map": "pages/Components/Map.html",
+  "/Components/Services": "pages/Components/Services.html",
+  "/404": "pages/404.html",
+  "/about-us": "pages/about-us.html",
+  "/": "pages/index.html",
+  "/Components/nav-bar": "pages/Components/nav-bar.html",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/_document": "pages/_document.js"
 }

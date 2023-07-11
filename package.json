@@ -25,7 +25,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
     "lint": "next lint"
@@ -35,6 +35,9 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "browser": {
+    "fs": false
   },
   "browserslist": {
     "production": [
