@@ -174,13 +174,13 @@ export default function Services({ anchoViewport }) {
               height: "75px !important",
               position: "absolute !important",
               marginTop: {xs:"-25px !important", md: "-20px !important"},
-              marginLeft: "-4px !important",
+              // marginLeft: "-4px !important",
               zIndex: "-1 !important",
             },
             ".MuiStepContent-root": {
               borderLeft: " 1px solid #0060a6 !important",
               marginTop: activeStep === 0 ? "-20px !important" : null,
-              marginLeft: "8px !important",
+              // marginLeft: "8px !important",
             },
             ".MuiStepLabel-iconContainer": { width: "25px" },
           }}

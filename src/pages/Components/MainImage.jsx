@@ -8,7 +8,7 @@ import { FormattedMessage } from "react-intl";
  */
 export default function MainImage({service, anchoViewport, src}) {
   const [videoLoaded, setVideoLoaded] = useState(false);
-  const [videoHeight, setVideoHeight] = useState(200);
+  const [videoHeight, setVideoHeight] = useState(900);
   const imageRef = useRef();
 
   useEffect(() => {

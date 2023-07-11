@@ -154,15 +154,6 @@ export default function ContactUs({ nav }) {
         >
           <Box>
             <Box sx={{ display: "flex", my: "0px", justifyContent:'space-around'}}>
-              <Typography
-              sx={{
-                color: "#fff",
-                fontSize: "16px",
-                fontFamily: "Open Sans, sans serif",
-              }}
-            >
-              info@everseek.io
-            </Typography>
               {/* <LinkedInIcon
                 fontSize="large"
                 sx={{ color: "rgb(252,113,40)" }}
@@ -499,15 +490,6 @@ export default function ContactUs({ nav }) {
               </Typography>
             </Box>
             <Box>
-              <Typography
-                sx={{
-                  color: "#fff",
-                  fontSize: "16px",
-                  fontFamily: "Open Sans, sans serif",
-                }}
-              >
-                info@everseek.io
-              </Typography>
               <Box sx={{ display: "flex", my: "30px" }}>
                 {/* <LinkedInIcon
                 fontSize="large"
