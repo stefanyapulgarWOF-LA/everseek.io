@@ -1,8 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  babel: {
-    configFile: ".babelrc"
-  },
   trailingSlash: true,
   exportPathMap: async function() {
     return {
@@ -23,6 +20,8 @@ const nextConfig = {
   },
   reactStrictMode: true,
   target: "server",
+  serverRuntimeConfig: {},
+  publicRuntimeConfig: {},
 }
 
 module.exports = nextConfig;
