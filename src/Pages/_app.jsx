@@ -7,6 +7,7 @@ import { useRouter } from "next/router";
 
 function App({Component, pageProps}) {
   let router = useRouter();
+  console.log('en app')
   // const Wrapper = ({ children }) => {
   //   const location = useLocation();
   //   useLayoutEffect(() => {
@@ -18,6 +19,7 @@ function App({Component, pageProps}) {
   // };
   useEffect(()=>{
     router.push(window.location.href)
+    console.log("🚀 ~ file: _app.jsx:130 ~ useEffect ~ router", router)
 },[])
   return (
     <PageContext>
