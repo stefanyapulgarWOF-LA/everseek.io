@@ -25,7 +25,7 @@ function App() {
   return (
     <PageContext>
       <LangProvider>
-        <Router basename="/">
+        <Router>
           {/* <Wrapper> */}
             <Routes>
               <Route index path="/" element={<Home />} />
