@@ -22,6 +22,7 @@ const nextConfig = {
     unoptimized: true,
   },
   reactStrictMode: true,
+  target: "server",
 }
 
 module.exports = nextConfig;
