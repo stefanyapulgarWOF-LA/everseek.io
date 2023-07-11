@@ -4,14 +4,14 @@ const nextConfig = {
   exportPathMap: async function() {
     return {
       "/": { page: "/" },
-      "/about-us": { page: "/about-us" }
+      "/about-us": { page: "/" }
     };
   },
   async rewrites() {
     return [
       {
         source: '/about-us',
-        destination: '/about-us.html',
+        destination: '/',
       },
     ];
   },
