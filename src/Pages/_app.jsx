@@ -25,7 +25,7 @@ function App() {
   return (
     <PageContext>
       <LangProvider>
-        <Router basename="everseek.io">
+        <Router basename="/">
           {/* <Wrapper> */}
             <Routes>
               <Route index path="/" element={<Home />} />
