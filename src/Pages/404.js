@@ -8,7 +8,7 @@ function Custom404() {
     return (
         <Fragment>
             <Head>
-                <title>404 | FireHawk Detección</title>
+                <title>404 | Everseek.io</title>
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                 <meta name="description" content="En FireHawk, ofrecemos un servicio de detección temprana y notificación de incendios forestales que complementa el trabajo humano con Inteligencia Artificial." />
             </Head>
@@ -52,9 +52,9 @@ function Custom404() {
                     </Box>
                 </Grid>
 
-                <Grid item xs={12} marginBottom={-5}>
+                {/* <Grid item xs={12} marginBottom={-5}>
                     <img src={'/assets/404.jpeg'} width={'100%'} height={'100%'} alt='404 image' />
-                </Grid>
+                </Grid> */}
             </Grid>
         </Fragment>
     )

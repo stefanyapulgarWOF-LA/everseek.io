@@ -1,17 +1,11 @@
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  useLocation,
-} from "react-router-dom";
-import AboutUs from "./about-us";
+
 import { LangProvider } from "../Lang/LangProvider";
-import Home from "./index";
 import { React, useState, useEffect, useRef, useLayoutEffect } from "react";
 import { PageContext } from "../Context/AllContext";
-import "../styles/index.css";
+import "./app.css";
 
-function App() {
+function App({Component, pageProps}) {
+  console.log('en app')
   // const Wrapper = ({ children }) => {
   //   const location = useLocation();
   //   useLayoutEffect(() => {
@@ -21,18 +15,10 @@ function App() {
   //   }, [location.pathname]);
   //   return children;
   // };
-
   return (
     <PageContext>
       <LangProvider>
-        <Router>
-          {/* <Wrapper> */}
-            <Routes>
-              <Route index path="/" element={<Home />} />
-              <Route path="/about-us" element={<AboutUs />} />
-            </Routes>
-          {/* </Wrapper> */}
-        </Router>
+      <Component {...pageProps} />
       </LangProvider>
     </PageContext>
   );
